@@ -1,3 +1,8 @@
+# Repo helper files: never serve them.
+/CLAUDE.md  /links-unavailable.html  404!
+/TOPICS.md  /links-unavailable.html  404!
+/check_article.py  /links-unavailable.html  404!
+
 # Reel North outbound links.
 # 1) Tracking links are set in build.py (TRACKING). Rebuild after changing them.
 # 2) Casino links only work for visitors whose IP is in Canada; everyone else gets the 'not available' page.
