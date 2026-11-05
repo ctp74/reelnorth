@@ -1,0 +1,20 @@
+# Reel North outbound links.
+# 1) Tracking links are set in build.py (TRACKING). Rebuild after changing them.
+# 2) Casino links only work for visitors whose IP is in Canada; everyone else gets the 'not available' page.
+#    Ontario and Alberta are screened by the on-page province check (Netlify can't filter by province).
+
+/go/ice-casino  sub=:sub  https://ice-spin.com/l/6ad8b1780467f2201308bc22?sub_id=:sub  302!  Country=ca
+/go/ice-casino  https://ice-spin.com/l/6ad8b1780467f2201308bc22?sub_id=reelnorth  302!  Country=ca
+/go/v-vegas  sub=:sub  https://vvegas-promo.com/l/6ad8b1ecbd1a58a68702d163?sub_id=:sub  302!  Country=ca
+/go/v-vegas  https://vvegas-promo.com/l/6ad8b1ecbd1a58a68702d163?sub_id=reelnorth  302!  Country=ca
+/go/verde-casino  sub=:sub  https://new-promos.com/l/6ad8b14f47b2e5134600e672?sub_id=:sub  302!  Country=ca
+/go/verde-casino  https://new-promos.com/l/6ad8b14f47b2e5134600e672?sub_id=reelnorth  302!  Country=ca
+/go/slotoro  sub=:sub  https://get-fastpromo.com/l/6ad8b221759f24ed2b071992?sub_id=:sub  302!  Country=ca
+/go/slotoro  https://get-fastpromo.com/l/6ad8b221759f24ed2b071992?sub_id=reelnorth  302!  Country=ca
+# Hit'n'Spin: no tracking link yet, sends visitors to the review page
+/go/hitnspin  /hitnspin-review.html  302!  Country=ca
+/go/fs-casino  sub=:sub  https://promo-fs.com/l/6ad8b1aec9ce8462d50d5882?sub_id=:sub  302!  Country=ca
+/go/fs-casino  https://promo-fs.com/l/6ad8b1aec9ce8462d50d5882?sub_id=reelnorth  302!  Country=ca
+# FieryPlay: no tracking link yet, sends visitors to the review page
+/go/fieryplay  /fieryplay-review.html  302!  Country=ca
+/go/*  /links-unavailable.html  302!
