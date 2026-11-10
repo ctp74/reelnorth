@@ -3,7 +3,7 @@
 Take the first unchecked topic unless a later one is clearly more timely. Mark done as `- [x] Topic — guide-slug.html (YYYY-MM-DD)`. When fewer than 5 remain, add 10 new ones in the same style (searchable questions players actually ask; no brand names).
 
 - [x] What is the house edge? Every casino game compared — guide-house-edge.html (2026-11-06)
-- [ ] Craps odds: the best and worst bets on the table
+- [x] Craps odds: the best and worst bets on the table — guide-craps-odds.html (2026-11-10)
 - [ ] Baccarat strategy: banker, player and tie bets explained
 - [ ] Video poker basics: pay tables and why 9/6 Jacks or Better matters
 - [ ] Free spins explained: max cashout, wagering and expiry
