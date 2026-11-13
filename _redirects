@@ -22,4 +22,6 @@
 /go/fs-casino  https://promo-fs.com/l/6ad8b1aec9ce8462d50d5882?sub_id=reelnorth  302!  Country=ca
 # FieryPlay: no tracking link yet, sends visitors to the review page
 /go/fieryplay  /fieryplay-review.html  302!  Country=ca
+# Betory (Big Betty Partners): Canada only. Confirm Canada is an approved GEO with your Big Betty manager.
+/go/betory  https://betorytrackers.com/d0fdvlzw5  302!  Country=ca
 /go/*  /links-unavailable.html  302!
