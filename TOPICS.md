@@ -4,7 +4,7 @@ Take the first unchecked topic unless a later one is clearly more timely. Mark d
 
 - [x] What is the house edge? Every casino game compared — guide-house-edge.html (2026-11-06)
 - [x] Craps odds: the best and worst bets on the table — guide-craps-odds.html (2026-11-10)
-- [ ] Baccarat strategy: banker, player and tie bets explained
+- [x] Baccarat strategy: banker, player and tie bets explained — guide-baccarat-strategy.html (2026-11-13)
 - [ ] Video poker basics: pay tables and why 9/6 Jacks or Better matters
 - [ ] Free spins explained: max cashout, wagering and expiry
 - [ ] No-deposit bonuses: what the terms really mean
