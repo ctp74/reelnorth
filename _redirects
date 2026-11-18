@@ -24,4 +24,6 @@
 /go/fieryplay  /fieryplay-review.html  302!  Country=ca
 # Betory (Big Betty Partners): Canada only. Canada confirmed as an approved GEO by the Big Betty manager (Nov 2026).
 /go/betory  https://betorytrackers.com/d0fdvlzw5  302!  Country=ca
+# 888casino (888 affiliate program, tracking code 2027777 'reelnorth', revenue share). Gibraltar-licensed .com site; Canada offer.
+/go/888casino  https://ic.aff-handler.com/c/48720?sr=2027777  302!  Country=ca
 /go/*  /links-unavailable.html  302!
