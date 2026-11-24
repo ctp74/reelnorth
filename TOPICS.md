@@ -7,7 +7,7 @@ Take the first unchecked topic unless a later one is clearly more timely. Mark d
 - [x] Baccarat strategy: banker, player and tie bets explained — guide-baccarat-strategy.html (2026-11-13)
 - [x] Video poker basics: pay tables and why 9/6 Jacks or Better matters — guide-video-poker-pay-tables.html (2026-11-17)
 - [x] Free spins explained: max cashout, wagering and expiry — guide-free-spins.html (2026-11-20)
-- [ ] No-deposit bonuses: what the terms really mean
+- [x] No-deposit bonuses: what the terms really mean — guide-no-deposit-bonuses.html (2026-11-24)
 - [ ] Cashback and reload bonuses: how to work out their value
 - [ ] Martingale system: why doubling up fails (with the maths)
 - [ ] Progressive jackpots: odds, RTP and when they are worth playing
