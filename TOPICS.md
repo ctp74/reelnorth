@@ -8,7 +8,7 @@ Take the first unchecked topic unless a later one is clearly more timely. Mark d
 - [x] Video poker basics: pay tables and why 9/6 Jacks or Better matters — guide-video-poker-pay-tables.html (2026-11-17)
 - [x] Free spins explained: max cashout, wagering and expiry — guide-free-spins.html (2026-11-20)
 - [x] No-deposit bonuses: what the terms really mean — guide-no-deposit-bonuses.html (2026-11-24)
-- [ ] Cashback and reload bonuses: how to work out their value
+- [x] Cashback and reload bonuses: how to work out their value — guide-cashback-reload-bonuses.html (2026-11-27)
 - [ ] Martingale system: why doubling up fails (with the maths)
 - [ ] Progressive jackpots: odds, RTP and when they are worth playing
 - [ ] Megaways slots: how they work and what changes the RTP
